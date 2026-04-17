@@ -1,0 +1,23 @@
+[
+  {
+    "period": "2023.09 - Present",
+    "degree": "PhD Student",
+    "school": "Hong Kong University of Science and Technology (Guangzhou)",
+    "school_url": "https://www.hkust-gz.edu.cn/",
+    "details": "Data Science and Analytics, Information Hub"
+  },
+  {
+    "period": "2019.09 - 2020.12",
+    "degree": "Master of Science in Electrical and Computer Engineering",
+    "school": "Johns Hopkins University",
+    "school_url": "https://www.jhu.edu/",
+    "details": "Whiting School of Engineering, Baltimore"
+  },
+  {
+    "period": "2015.09 - 2019.06",
+    "degree": "Bachelor of Engineering in Telecommunications",
+    "school": "Huazhong University of Science and Technology",
+    "school_url": "https://www.hust.edu.cn/",
+    "details": "School of Information and Communication Engineering, Wuhan"
+  }
+]

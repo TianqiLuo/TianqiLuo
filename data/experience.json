@@ -1,0 +1,9 @@
+[
+  {
+    "period": "2021.06 - 2022.08",
+    "title": "Algorithm Engineer",
+    "company": "Baidu",
+    "location": "Beijing, China",
+    "description": "Worked on voice assistant devices (smart home, speakers, earbuds, etc.) including keyword spotting and speech recognition. Trained ASR and language models. Deployed sound event detection models on embedded chips with real-time inference, model compression, and quantization."
+  }
+]

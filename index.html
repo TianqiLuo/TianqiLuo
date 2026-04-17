@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Tianqi Luo - PhD Student at HKUST(GZ) - Data Visualization, NL2VIS">
+  <title>Tianqi Luo - Homepage</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <!-- Mobile Header -->
+  <header class="mobile-header">
+    <div class="mobile-header-inner">
+      <span class="mobile-name"></span>
+      <button class="hamburger" aria-label="Toggle navigation">
+        <i class="fas fa-bars"></i>
+      </button>
+    </div>
+  </header>
+
+  <!-- Sidebar -->
+  <aside class="sidebar" id="sidebar">
+    <div class="sidebar-inner">
+      <div class="profile-card">
+        <div class="avatar-wrapper">
+          <img class="avatar" id="avatar" src="" alt="Profile photo">
+        </div>
+        <h1 class="profile-name" id="profile-name"></h1>
+        <p class="profile-title" id="profile-title"></p>
+        <div class="profile-keywords" id="profile-keywords"></div>
+        <div class="profile-location" id="profile-location">
+          <i class="fas fa-map-marker-alt"></i>
+          <span></span>
+        </div>
+        <div class="profile-links" id="profile-links"></div>
+      </div>
+      <nav class="sidebar-nav" id="sidebar-nav">
+        <a href="#about" class="nav-link active"><i class="fas fa-user"></i> About Me</a>
+        <a href="#news" class="nav-link"><i class="fas fa-newspaper"></i> News</a>
+        <a href="#publications" class="nav-link"><i class="fas fa-book"></i> Publications</a>
+        <a href="#honors" class="nav-link"><i class="fas fa-award"></i> Honors</a>
+        <a href="#education" class="nav-link"><i class="fas fa-graduation-cap"></i> Education</a>
+        <a href="#experience" class="nav-link"><i class="fas fa-briefcase"></i> Experience</a>
+        <a href="#services" class="nav-link"><i class="fas fa-hands-helping"></i> Services</a>
+      </nav>
+    </div>
+  </aside>
+
+  <!-- Main Content -->
+  <main class="main-content">
+    <!-- About -->
+    <section id="about" class="section">
+      <div class="section-content">
+        <h2 class="greeting" id="greeting"></h2>
+        <div class="bio" id="bio"></div>
+        <div class="bio-actions" id="bio-actions"></div>
+      </div>
+    </section>
+
+    <!-- News -->
+    <section id="news" class="section">
+      <h2 class="section-title"><i class="fas fa-newspaper"></i> Recent News</h2>
+
+      <div class="news-list" id="news-list"></div>
+      <div class="news-earlier" id="news-earlier" style="display:none;">
+        <div class="news-list" id="news-earlier-list"></div>
+      </div>
+      <button class="toggle-btn" id="news-toggle" style="display:none;">
+        <i class="fas fa-chevron-down"></i> <span>Show earlier updates</span>
+      </button>
+    </section>
+
+    <!-- Publications -->
+    <section id="publications" class="section">
+      <h2 class="section-title"><i class="fas fa-book"></i> Publications</h2>
+
+      <div id="publications-list"></div>
+    </section>
+
+    <!-- Honors -->
+    <section id="honors" class="section">
+      <h2 class="section-title"><i class="fas fa-award"></i> Honors and Awards</h2>
+      <div class="timeline" id="honors-list"></div>
+    </section>
+
+    <!-- Education -->
+    <section id="education" class="section">
+      <h2 class="section-title"><i class="fas fa-graduation-cap"></i> Education</h2>
+      <div class="timeline" id="education-list"></div>
+    </section>
+
+    <!-- Experience -->
+    <section id="experience" class="section">
+      <h2 class="section-title"><i class="fas fa-briefcase"></i> Experience</h2>
+      <div class="timeline" id="experience-list"></div>
+    </section>
+
+    <!-- Services -->
+    <section id="services" class="section">
+      <h2 class="section-title"><i class="fas fa-hands-helping"></i> Services</h2>
+      <div class="services-list" id="services-list"></div>
+    </section>
+
+    <!-- ClustrMaps -->
+    <div class="clustrmaps-container">
+      <!-- Replace the src URL below with your own ClustrMaps embed code from https://clustrmaps.com -->
+      <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=REPLACE_WITH_YOUR_ID&cl=ffffff&w=300&t=tt"></script>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <p>&copy; <span id="footer-year"></span> Tianqi Luo. Powered by GitHub Pages.</p>
+    </footer>
+  </main>
+
+  <script src="js/main.js"></script>
+</body>
+</html>

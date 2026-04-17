@@ -1,0 +1,37 @@
+[
+  {
+    "date": "2026.02",
+    "text": "Our <a href='https://arxiv.org/abs/2602.11745'>Text2GQL-Bench</a> paper is now available on ArXiv.",
+    "recent": true
+  },
+  {
+    "date": "2025.11",
+    "text": "Our <a href='https://arxiv.org/abs/2511.18538'>Code Intelligence Survey</a> paper is now available on ArXiv.",
+    "recent": true
+  },
+  {
+    "date": "2025.10",
+    "text": "We proposed <a href='https://arxiv.org/abs/2510.23587'>A Survey of Data Agents</a>. Ranked Top-3 in <a href='https://huggingface.co/papers/2510.23587'>Hugging Face Daily Papers</a>.",
+    "recent": true
+  },
+  {
+    "date": "2025.09",
+    "text": "Our <a href='https://nvbench2.github.io/'>nvBench 2.0</a> paper has been accepted by <a href='https://neurips.cc/Conferences/2025'>NeurIPS 2025</a>.",
+    "recent": true
+  },
+  {
+    "date": "2025.01",
+    "text": "Our DesignRepair paper has been accepted by <a href='https://conf.researchr.org/home/icse-2025'>ICSE 2025</a>.",
+    "recent": false
+  },
+  {
+    "date": "2024.01",
+    "text": "Our Data Playwright paper has been published in IEEE TVCG 2024.",
+    "recent": false
+  },
+  {
+    "date": "2023.09",
+    "text": "Started my PhD journey at <a href='https://www.hkust-gz.edu.cn/'>HKUST(GZ)</a>!",
+    "recent": false
+  }
+]

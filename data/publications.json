@@ -1,0 +1,83 @@
+[
+  {
+    "year": 2026,
+    "date": "2026.02",
+    "venue": "ArXiv 2026",
+    "title": "Text2GQL-Bench: A Text to Graph Query Language Benchmark",
+    "authors": ["Shijian Lyu", "Lingyun Ban", "Zihao Wu", "Tianqi Luo", "Jiaxin Liu", "Changsheng Ma", "Yuyu Luo", "Nan Tang", "Sheng Qi", "Hao Lin", "Yue Liu"],
+    "links": {
+      "paper": "https://arxiv.org/abs/2602.11745",
+      "code": "https://github.com/ldbc/Text2GraphQuery-DataGen"
+    },
+    "image": "",
+    "badges": [],
+    "highlight": false
+  },
+  {
+    "year": 2025,
+    "date": "2025.11",
+    "venue": "ArXiv 2025",
+    "title": "From Code Foundation Models to Agents and Applications: A Comprehensive Survey and Practical Guide to Code Intelligence",
+    "authors": ["Junkai Yang", "...", "Tianqi Luo", "et al."],
+    "links": {
+      "paper": "https://arxiv.org/abs/2511.18538"
+    },
+    "image": "",
+    "badges": [],
+    "highlight": false
+  },
+  {
+    "year": 2025,
+    "date": "2025.10",
+    "venue": "ArXiv 2025",
+    "title": "A Survey of Data Agents: Emerging Paradigm or Overstated Hype?",
+    "authors": ["Yizhang Zhu", "...", "Tianqi Luo", "et al."],
+    "links": {
+      "paper": "https://arxiv.org/abs/2510.23587"
+    },
+    "image": "",
+    "badges": ["Top-3 Daily Paper on Hugging Face"],
+    "highlight": false
+  },
+  {
+    "year": 2025,
+    "date": "2025.09",
+    "venue": "NeurIPS 2025",
+    "title": "nvBench 2.0: A Benchmark for Natural Language to Visualization under Ambiguity",
+    "authors": ["Tianqi Luo", "Chuhan Huang", "Leixian Shen", "Boyan Li", "Shuyu Shen", "Wei Zeng", "Nan Tang", "Yuyu Luo"],
+    "links": {
+      "paper": "https://arxiv.org/abs/2503.12880",
+      "homepage": "https://nvbench2.github.io/",
+      "code": "https://github.com/HKUSTDial/nvBench-2.0"
+    },
+    "image": "",
+    "badges": [],
+    "highlight": true
+  },
+  {
+    "year": 2025,
+    "date": "2025.01",
+    "venue": "ICSE 2025",
+    "title": "DesignRepair: Dual-Stream Design Guideline-Aware Frontend Repair with Large Language Models",
+    "authors": ["Mingyue Yuan", "Jieshan Chen", "Zhenchang Xing", "Aaron Quigley", "Yuyu Luo", "Tianqi Luo", "Gelareh Mohammadi", "Qinghua Lu", "Liming Zhu"],
+    "links": {
+      "paper": "https://arxiv.org/abs/2411.01606"
+    },
+    "image": "",
+    "badges": [],
+    "highlight": false
+  },
+  {
+    "year": 2024,
+    "date": "2024.01",
+    "venue": "TVCG 2024",
+    "title": "Data Playwright: Authoring Data Videos with Annotated Narration",
+    "authors": ["Leixian Shen", "Haotian Li", "Yun Wang", "Tianqi Luo", "Yuyu Luo", "Huamin Qu"],
+    "links": {
+      "paper": "https://arxiv.org/abs/2410.03093"
+    },
+    "image": "",
+    "badges": [],
+    "highlight": false
+  }
+]
