@@ -9,7 +9,7 @@
       "paper": "https://arxiv.org/abs/2602.11745",
       "code": "https://github.com/ldbc/Text2GraphQuery-DataGen"
     },
-    "image": "",
+    "image": "assets/publication/Text2GQL.png",
     "badges": [],
     "highlight": false
   },
@@ -18,11 +18,11 @@
     "date": "2025.11",
     "venue": "ArXiv 2025",
     "title": "From Code Foundation Models to Agents and Applications: A Comprehensive Survey and Practical Guide to Code Intelligence",
-    "authors": ["Junkai Yang", "...", "Tianqi Luo", "et al."],
+    "authors": ["Jian Yang", "...", "Tianqi Luo", "et al."],
     "links": {
       "paper": "https://arxiv.org/abs/2511.18538"
     },
-    "image": "",
+    "image": "assets/publication/CodeAgentSurvey.png",
     "badges": [],
     "highlight": false
   },
@@ -31,11 +31,12 @@
     "date": "2025.10",
     "venue": "ArXiv 2025",
     "title": "A Survey of Data Agents: Emerging Paradigm or Overstated Hype?",
-    "authors": ["Yizhang Zhu", "...", "Tianqi Luo", "et al."],
+    "authors": ["Yizhang Zhu", "Liangwei Wang", "Chenyu Yang", "Xiaotian Lin", "Boyan Li", "Wei Zhou", "Xinyu Liu", "Zhangyang Peng", "Tianqi Luo", "Yu Li", "Chengliang Chai", "Chong Chen", "Shimin Di", "Ju Fan", "Ji Sun", "Nan Tang", "Fugee Tsung", "Jiannan Wang", "Chenglin Wu", "Yanwei Xu", "Shaolei Zhang", "Yong Zhang", "Xuanhe Zhou", "Guoliang Li", "Yuyu Luo"],
     "links": {
-      "paper": "https://arxiv.org/abs/2510.23587"
+      "paper": "https://arxiv.org/abs/2510.23587",
+      "homepage": "https://github.com/HKUSTDial/awesome-data-agents"
     },
-    "image": "",
+    "image": "assets/publication/DataAgentSurvey.png",
     "badges": ["Top-3 Daily Paper on Hugging Face"],
     "highlight": false
   },
@@ -50,7 +51,7 @@
       "homepage": "https://nvbench2.github.io/",
       "code": "https://github.com/HKUSTDial/nvBench-2.0"
     },
-    "image": "",
+    "image": "assets/publication/NvBench2.0.png",
     "badges": [],
     "highlight": true
   },
@@ -63,7 +64,7 @@
     "links": {
       "paper": "https://arxiv.org/abs/2411.01606"
     },
-    "image": "",
+    "image": "assets/publication/DesignRepair.png",
     "badges": [],
     "highlight": false
   },
@@ -76,7 +77,7 @@
     "links": {
       "paper": "https://arxiv.org/abs/2410.03093"
     },
-    "image": "",
+    "image": "assets/publication/DataPlaywrite.png",
     "badges": [],
     "highlight": false
   }
