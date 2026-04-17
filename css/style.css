@@ -486,8 +486,8 @@ img {
 
 .pub-image {
   flex-shrink: 0;
-  width: 120px;
-  height: 80px;
+  width: 200px;
+  height: 130px;
   border-radius: var(--radius-sm);
   overflow: hidden;
   background: var(--color-bg-alt);
