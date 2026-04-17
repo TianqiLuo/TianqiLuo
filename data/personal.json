@@ -1,13 +1,12 @@
 {
   "name": "Tianqi Luo",
   "title": "PhD Student",
-  "keywords": ["Data Visualization", "NL2VIS"],
+  "keywords": ["Data-Centric AI", "Data Visualization"],
   "affiliation": "HKUST(GZ)",
   "affiliation_url": "https://www.hkust-gz.edu.cn/",
   "location": "Guangzhou, China",
   "avatar": "assets/personal/id.jpg",
-  "bio": "I am a PhD student at <a href='https://www.hkust-gz.edu.cn/'>HKUST(GZ)</a>, advised by Professor <a href='https://luoyuyu.vip/'>Yuyu Luo</a> and Professor <a href='https://nantang.github.io/'>Nan Tang</a>. My research focuses on <strong>Data Visualization</strong> and <strong>Natural Language Interfaces for Data Visualization (NL2VIS)</strong>, building intelligent systems that bridge the gap between natural language and visual data representation.",
-  "collaboration_note": "I am currently looking for collaborators on interesting projects in these areas, and I would be happy to connect if you are interested.",
+  "bio": "I am a PhD student at <a href='https://www.hkust-gz.edu.cn/'>HKUST(GZ)</a>, advised by Professor <a href='https://luoyuyu.vip/'>Yuyu Luo</a> and Professor <a href='https://nantang.github.io/'>Nan Tang</a>. My research focuses on <strong>Data Visualization</strong> and <strong>Data-Centric AI</strong>, building intelligent systems that bridge the gap between natural language and data visual analytics.",
   "links": {
     "email": "mailto:tluo373@connect.hkust-gz.edu.cn",
     "github": "https://github.com/TianqiLuo",
